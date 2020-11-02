@@ -1,0 +1,241 @@
+.research h2 {
+    font-size: 21px;
+    color: 
+    #252525;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+    padding: 40px 0;
+    letter-spacing: 1.2px;
+    font-weight: 400;
+}
+
+.p {
+    margin: 0 0 10px;
+}
+
+.service-content button:hover {
+    background: 
+    #000;
+}
+
+.btn-success:hover {
+color: #fff;
+background-color:#449d44;
+border-color:#398439;
+}
+
+.aboutus {
+    text-align: justify;
+    line-height: 24px;
+    color: #979595;
+    font-weight: 600;
+    font-size: 13px;
+    text-align-last: left;
+    letter-spacing: 1px;
+}
+.aboutus1 {
+    color: #6e6e6c;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+    padding: 10px 0;
+    text-align: left;
+}
+
+.img1{
+  
+}
+
+.aboutus2{
+    color: #919090;
+    display: block;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 0;
+    text-align: left;
+    letter-spacing: 1.5px;
+}
+
+.img-re{
+    display: block;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.re{
+    color: #6e6e6c;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+    padding: 10px 0;
+    text-align: left;
+}
+.re1{
+    text-align: justify;
+    color: #6e6e6c;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+    padding: 10px 0;
+    text-align-last: left;
+}
+
+.research {
+    float: left;
+    width: 30%;
+    margin: 1%;
+}
+.re p {
+    word-break: break-all;
+}
+.white-color{
+    text-align: justify;
+     color: #6e6e6c;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+    padding: 10px 0;
+    text-align-last: left;
+}
+.cc{
+    text-align:justify;
+    color: #6e6e6c;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+    padding: 10px 0;
+    text-align-last: left;
+    
+}
+.new{
+    text-align:justify;
+    color: #6e6e6c;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+    padding: 10px 10;
+    text-align-last: left;
+    
+}
+.new {
+    float: left;
+    width: 27%;
+    margin-right: 550px;
+}
+
+.op {
+    color: 
+    #6e6e6c;
+    font-size: 30px;
+    font-weight: 500;
+    margin: 0;
+    padding: 15px 0 10px;
+    text-align: center;
+    letter-spacing: 1.5px;
+}
+.op1 {
+    color: #979595;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 22px;
+    padding: 20px 220px 0;
+    margin: 0;
+    letter-spacing: 1px;
+}
+
+
+.join {
+    font-size: 40px;
+    color: 
+    #fdfcfc;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    padding: 20px 0 3px;
+    margin: 0;
+}
+
+
+.imgbtn {
+  position: relative;
+  width: 120%;
+  max-width: 400px;
+}
+
+
+.imgbtn .btn {
+
+    
+    position: absolute;
+    top: 28.5%;
+    left: 282%;
+    font-size: 20px;
+
+    border: 3px solid #fff;
+    background:#363636;
+    border-radius: 0;
+    padding: 8px 15px;
+    letter-spacing: 1.1px;
+    color: #fdfcfc;
+    text-align: center;
+    font-size: 22px;
+    float: right;
+    margin-top: 72px;
+}
+
+.imgbtn .btn:hover {
+  background-color:#ccc;
+}
+
+
+.imgbtn1 {
+  position: relative;
+  width: 120%;
+  max-width: 400px;
+}
+
+
+.imgbtn1 .btn1 {
+
+    
+    position: absolute;
+    top: 27.5%;
+    left: 249.6%;
+    font-size: 20px;
+
+    border: 3px solid #fff;
+    background:#363636;
+    border-radius: 0;
+    padding: 8px 15px;
+    letter-spacing: 1.1px;
+    color: #fdfcfc;
+    text-align: center;
+    font-size: 22px;
+    float: right;
+    margin-top: 72px;
+}
+
+.imgbtn1 .btn1:hover {
+  background-color:#ccc;
+}
+
+
+.BUTTON:hover {
+    background: 
+    #000;
+}
+
+.BUTTON{
+    border: 0;   
+    text-align: center;
+    padding: 13px 80px;
+    border-radius: 0;
+    margin: 50px 0;
+    font-size: 16px;
+    color: #fff;
+    letter-spacing: 2px;
+    
+    bottom: 0;
+    font-weight: 300;
+
+}
